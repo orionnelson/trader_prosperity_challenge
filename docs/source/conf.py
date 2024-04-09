@@ -9,10 +9,10 @@ import sys
 import os
 sys.path.insert(0, os.path.abspath('../../'))
 
-project = '{^name^}'
+project = 'Trader'
 copyright = ''
-author = '{^team^}'
-release = '{^version^}'
+author = 'axe_trading'
+release = 'day_1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration

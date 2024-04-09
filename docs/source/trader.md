@@ -1,5 +1,5 @@
-## {^name^}
+## Trader
 ```{eval-rst}
-.. automodule:: {^name^}
+.. automodule:: Trader
    :members:
 ```
