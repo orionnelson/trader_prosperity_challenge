@@ -1,5 +1,7 @@
-from datamodel import Listing, OrderDepth, Trade, TradingState
-
+from example_classes.TradingState import TradingState
+from example_classes.Listing import Listing
+from example_classes.OrderDepth import OrderDepth
+from example_classes.Trade import Trade 
 timestamp = 1000
 
 listings = {
