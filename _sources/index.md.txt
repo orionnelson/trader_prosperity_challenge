@@ -8,14 +8,16 @@
 ```{include} ../../README.md
 :relative-images:
 ```
+
 ```{warning}
-The Trader is being built 
+The Trader is being built
 ```
 
 ```{toctree}
 :caption: 'Contents:'
 :maxdepth: 2
 Trader
+Example
 ```
 
 # Indices and tables
